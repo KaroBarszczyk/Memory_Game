@@ -1,5 +1,5 @@
 # Memory_Game
-A memory game project in Vanilla JavaScript
+
 
 This is a card game that works in your browser. 
 The game was created for Udacity and Google Front-End Web Developer Nanodegree Program on udacity.com.
