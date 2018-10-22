@@ -12,8 +12,8 @@ Just open index.html file in your browser.
 
 ----
 ## Rules of game
-1. New game its starts from spreads cards randomly, face down. 
-2. In each moves the Player flips two cards by clicking and revealing its underlying symbol the player trying to find the similar card with the same symbol.
+1. New game starts from spreads cards randomly, face down. 
+2. In each move the Player flips two cards by clicking and revealing its underlying symbol the player trying to find the similar card with the same symbol.
 3. When the two cards are match both stay flipped over, otherways they turn over. 
 4. The game ends once all cards have been correctly matched.
 
