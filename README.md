@@ -9,6 +9,7 @@ The game was created for Udacity and Google Front-End Web Developer Nanodegree P
 
 Just open index.html file in your browser. 
 
+Link to site with game https://karobarszczyk.github.io/Memory_Game/
 
 ----
 ## Rules of game
